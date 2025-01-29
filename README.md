@@ -11,12 +11,20 @@ O analista queria algo dinâmico, onde qualquer usuário pudesse escolher um gr�
 Cada tipo de gráfico revela uma história única:
 
 Histograma 📈: Mostra a distribuição dos preços, revelando se há mais produtos baratos ou caros.
+
 Gráfico de Dispersão 🔵: Expõe a relação entre a nota do produto e o número de avaliações — será que produtos mais bem avaliados recebem mais feedbacks?
+
 Mapa de Calor 🔥: Aponta as correlações entre variáveis, ajudando a entender padrões de venda e preço.
+
 Gráfico de Barras 📊: Destaca quais marcas dominam o e-commerce.
+
 Gráfico de Pizza 🥧: Revela a distribuição dos materiais utilizados nos produtos.
+
 Gráfico de Densidade 🌊: Mostra como os preços se distribuem e se há concentração em faixas específicas.
+
 Gráfico de Regressão 🔴📉: Ajuda a identificar se um produto com mais avaliações tende a vender mais.
+
+
 🚀 Transformando Código em Conhecimento
 Por fim, tudo isso é renderizado em tempo real, permitindo que qualquer usuário visualize rapidamente tendências e padrões no e-commerce. O painel interativo não apenas facilita a análise, mas também conta a história por trás dos números, ajudando empresas a tomarem decisões estratégicas baseadas em dados.
 
